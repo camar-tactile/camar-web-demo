@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/camar-web-demo/static/css/main.1b491f35.chunk.css",
-    "main.js": "/camar-web-demo/static/js/main.c1b54426.chunk.js",
-    "main.js.map": "/camar-web-demo/static/js/main.c1b54426.chunk.js.map",
-    "runtime-main.js": "/camar-web-demo/static/js/runtime-main.023d0abb.js",
-    "runtime-main.js.map": "/camar-web-demo/static/js/runtime-main.023d0abb.js.map",
-    "static/js/2.6bf1cc62.chunk.js": "/camar-web-demo/static/js/2.6bf1cc62.chunk.js",
-    "static/js/2.6bf1cc62.chunk.js.map": "/camar-web-demo/static/js/2.6bf1cc62.chunk.js.map",
-    "static/js/3.abca804e.chunk.js": "/camar-web-demo/static/js/3.abca804e.chunk.js",
-    "static/js/3.abca804e.chunk.js.map": "/camar-web-demo/static/js/3.abca804e.chunk.js.map",
+    "main.css": "/camar-web-demo/static/css/main.5a748c43.chunk.css",
+    "main.js": "/camar-web-demo/static/js/main.e827dc0b.chunk.js",
+    "main.js.map": "/camar-web-demo/static/js/main.e827dc0b.chunk.js.map",
+    "runtime-main.js": "/camar-web-demo/static/js/runtime-main.99c2a4b6.js",
+    "runtime-main.js.map": "/camar-web-demo/static/js/runtime-main.99c2a4b6.js.map",
+    "static/js/2.c2edffbf.chunk.js": "/camar-web-demo/static/js/2.c2edffbf.chunk.js",
+    "static/js/2.c2edffbf.chunk.js.map": "/camar-web-demo/static/js/2.c2edffbf.chunk.js.map",
+    "static/js/3.1e9c1f37.chunk.js": "/camar-web-demo/static/js/3.1e9c1f37.chunk.js",
+    "static/js/3.1e9c1f37.chunk.js.map": "/camar-web-demo/static/js/3.1e9c1f37.chunk.js.map",
     "index.html": "/camar-web-demo/index.html",
-    "static/css/main.1b491f35.chunk.css.map": "/camar-web-demo/static/css/main.1b491f35.chunk.css.map",
-    "static/js/2.6bf1cc62.chunk.js.LICENSE.txt": "/camar-web-demo/static/js/2.6bf1cc62.chunk.js.LICENSE.txt"
+    "static/css/main.5a748c43.chunk.css.map": "/camar-web-demo/static/css/main.5a748c43.chunk.css.map",
+    "static/js/2.c2edffbf.chunk.js.LICENSE.txt": "/camar-web-demo/static/js/2.c2edffbf.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.023d0abb.js",
-    "static/js/2.6bf1cc62.chunk.js",
-    "static/css/main.1b491f35.chunk.css",
-    "static/js/main.c1b54426.chunk.js"
+    "static/js/runtime-main.99c2a4b6.js",
+    "static/js/2.c2edffbf.chunk.js",
+    "static/css/main.5a748c43.chunk.css",
+    "static/js/main.e827dc0b.chunk.js"
   ]
 }
